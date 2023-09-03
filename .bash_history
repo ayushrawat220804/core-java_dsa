@@ -1,0 +1,3 @@
+ls
+git init
+ls
